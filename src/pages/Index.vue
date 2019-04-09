@@ -3,11 +3,7 @@
     
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
     
-     <div class="max-w-sm rounded overflow-hidden shadow-lg">
-       <div class="px-6 py-4">
-         <div class="font-bold text-xl mb-2 font-display">Product Designer/ Full-Stack Engineer</div>
-       </div>
-     </div>
+   <Card />
    
     <p class="font-body">
       This is my portfolio page! It is still a WIP...
@@ -19,7 +15,13 @@
 </template>
 
 <script>
+
+import Card from '~/components/Card';
+
 export default {
+  components: {
+    Card
+  },
   metaInfo: {
     title: 'Prince Ashburton'
   }
