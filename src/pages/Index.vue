@@ -5,11 +5,11 @@
     
      <div class="max-w-sm rounded overflow-hidden shadow-lg">
        <div class="px-6 py-4">
-         <div class="font-bold text-xl mb-2">Product Designer/ Full-Stack Engineer</div>
+         <div class="font-bold text-xl mb-2 font-display">Product Designer/ Full-Stack Engineer</div>
        </div>
      </div>
    
-    <p>
+    <p class="font-body">
       This is my portfolio page! It is still a WIP...
     </p>
 
