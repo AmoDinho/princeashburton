@@ -8,7 +8,7 @@ module.exports = {
   siteName: 'Gridsome',
   plugins: [
     {
-      use: 'gridsome-plugin-tailwind.css'
+      use: 'gridsome-plugin-tailwindcss'
     }
   ]
 }

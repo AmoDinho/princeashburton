@@ -22,6 +22,12 @@ query {
 </static-query>
 
 <style>
+
+@tailwind preflight;
+
+@tailwind components; 
+
+@tailwind utilities;
 body {
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   margin:0;
