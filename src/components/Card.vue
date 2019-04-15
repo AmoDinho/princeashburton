@@ -21,8 +21,8 @@ export default {
 }
 
 .card__canopy {
-    bottom:290px;
-    left: 450px;
+    bottom:280px;
+    left: 580px;
     z-index: 1;
 }
 </style>

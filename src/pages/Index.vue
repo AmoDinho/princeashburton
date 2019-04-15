@@ -2,12 +2,12 @@
   <Layout>
     
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    
-   <Card />
+    <div class="flex justify-center" >
+           <Card />
+    </div>
    
-    <p class="font-body">
-      This is my portfolio page! It is still a WIP...
-    </p>
+   
+    
 
    
 
