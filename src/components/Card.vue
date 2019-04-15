@@ -18,6 +18,7 @@ export default {
 <style >
 .card {
     height: 200px;
+    background-color: #ffffff;
 }
 
 .card__canopy {
