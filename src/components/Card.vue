@@ -26,6 +26,8 @@ export default {
     left: 580px;
     z-index: 1;
 }
+
+
 </style>
 
 
