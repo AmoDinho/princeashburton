@@ -1,10 +1,10 @@
 <template>
-    <div class="max-w-sm rounded overflow-hidden shadow-lg">
+    <div class="max-w-sm rounded card overflow-hidden shadow-lg ">
       <h1 class="font-display text-center">Amo Moloko</h1>
       <h3 class="font-body text-center text-grey-dark">Product Designer/Full-Satck Engineer @ Pimp My Book</h3>
-      <div class="flex justify-center  z-10">
+      <div class="flex justify-center absolute card__canopy">
 
-          <g-image class="rounded-full h-48 w-48 " src="~/assets/me2018.jpg" />
+          <g-image class="rounded-full pin-x pin-b relative h-48 w-48 " src="~/assets/me2018.jpg" />
       </div>
     </div>
 </template>
@@ -14,3 +14,18 @@ export default {
     name: 'Card'
 }
 </script>
+
+<style >
+.card {
+    height: 200px;
+}
+
+.card__canopy {
+    bottom:290px;
+    left: 450px;
+    z-index: 1;
+}
+</style>
+
+
+
