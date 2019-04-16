@@ -5,12 +5,6 @@
     <div class="flex justify-center" >
            <Card />
     </div>
-   
-   
-    
-
-   
-
   </Layout>
 </template>
 
@@ -32,4 +26,6 @@ export default {
 .home-links a {
   margin-right: 1rem;
 }
+
+
 </style>
