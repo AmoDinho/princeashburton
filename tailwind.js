@@ -188,6 +188,8 @@ module.exports = {
   */
 
   fonts: {
+    'display': ['Overpass'],
+    'body': ['Barlow'],
     'sans': [
       'system-ui',
       'BlinkMacSystemFont',
@@ -201,6 +203,8 @@ module.exports = {
       'Droid Sans',
       'Helvetica Neue',
       'sans-serif',
+      
+      
     ],
     'serif': [
       'Constantia',

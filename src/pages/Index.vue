@@ -2,24 +2,20 @@
   <Layout>
     
     <!-- Learn how to use images here: https://gridsome.org/docs/images -->
-    
-     <div class="max-w-sm rounded overflow-hidden shadow-lg">
-       <div class="px-6 py-4">
-         <div class="font-bold text-xl mb-2">Product Designer/ Full-Stack Engineer</div>
-       </div>
-     </div>
-   
-    <p>
-      This is my portfolio page! It is still a WIP...
-    </p>
-
-   
-
+    <div class="flex justify-center" >
+           <Card />
+    </div>
   </Layout>
 </template>
 
 <script>
+
+import Card from '~/components/Card';
+
 export default {
+  components: {
+    Card
+  },
   metaInfo: {
     title: 'Prince Ashburton'
   }
@@ -30,4 +26,6 @@ export default {
 .home-links a {
   margin-right: 1rem;
 }
+
+
 </style>
