@@ -7,7 +7,7 @@
 
           <g-image 
           class="rounded-full h-48 w-48 absolute "
-           src="~/assets/me2018.jpg" />
+           src="~/assets/me_2019.png" />
       </div>
     </div>
 </template>
