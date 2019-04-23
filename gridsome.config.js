@@ -10,10 +10,8 @@ module.exports = {
     {
       use: 'gridsome-plugin-tailwindcss'
     }
-  ]
-}
+  ],
 
-module.exports = {
   chainWebpack: config => {
     const svgRule = config.module.rule('svg')
     svgRule.uses.clear()
@@ -22,3 +20,4 @@ module.exports = {
       .loader('vue-svg-loader')
   }
 }
+
