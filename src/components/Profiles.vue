@@ -1,6 +1,6 @@
 <template>
     <a :href="url"> 
-     <g-image :src="path" />
+     <g-image :src=src />
      </a>
 </template>
 
@@ -8,7 +8,7 @@
 export default {
     props: {
         url: String,
-        path: String
+        src: String
     }
 }
 </script>

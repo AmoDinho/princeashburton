@@ -22,11 +22,15 @@
       <a class="mr-3"  href="https://www.kaggle.com/princeashburton">
         <g-image src="~/assets/kaggle-icon.svg" />
       </a>
-
+     
 
       
     </div>
    </div>
+   <Profiles 
+   url="https://medium.com/@PrinceAshburton"
+   src="~/assets/kaggle-icon.svg" 
+   />
   </Layout>
 </template>
 
