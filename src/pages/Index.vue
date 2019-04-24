@@ -29,7 +29,7 @@
    </div>
    <Profiles 
    url="https://medium.com/@PrinceAshburton"
-   src="~/assets/kaggle-icon.svg" 
+   src="./assets/kaggle-icon.svg"
    />
   </Layout>
 </template>
