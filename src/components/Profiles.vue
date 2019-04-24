@@ -1,6 +1,6 @@
 <template>
     <a :href="url"> 
-     <g-image :src=src />
+     <g-image :src="src" />
      </a>
 </template>
 
