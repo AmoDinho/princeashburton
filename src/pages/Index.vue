@@ -26,7 +26,10 @@
    </div>
 
    <div class="container mt-16 text-center">
-     <h2 class="font-display">I enjoy being on the bleeding edge, while being able to craft experinces.</h2>
+   <Heading 
+   text="I enjoy being on the bleeding edge, 
+   while being able to craft experinces."
+   />
    </div>
   </Layout>
 </template>
@@ -34,12 +37,12 @@
 <script>
 
 import Card from '~/components/Card';
-import Profiles from '~/components/Profiles';
+import Heading from '~/components/Heading';
 
 export default {
   components: {
     Card,
-    Profiles
+    Heading
   },
   metaInfo: {
     title: 'Prince Ashburton'
