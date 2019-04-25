@@ -22,10 +22,14 @@
       <a class="mr-3"  href="https://www.kaggle.com/princeashburton">
         <g-image src="~/assets/kaggle-icon.svg" />
       </a>
-
-
-      
     </div>
+   </div>
+
+   <div class="container mt-16 text-center">
+   <Heading 
+   text="I enjoy being on the bleeding edge, 
+   while being able to craft experinces."
+   />
    </div>
   </Layout>
 </template>
@@ -33,12 +37,12 @@
 <script>
 
 import Card from '~/components/Card';
-import Profiles from '~/components/Profiles';
+import Heading from '~/components/Heading';
 
 export default {
   components: {
     Card,
-    Profiles
+    Heading
   },
   metaInfo: {
     title: 'Prince Ashburton'
