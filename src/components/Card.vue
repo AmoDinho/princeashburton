@@ -12,7 +12,7 @@
       <div class="flex justify-center  card__canopy">
 
           <g-image 
-          class="rounded-full h-48 w-48 absolute "
+          class="rounded-full h-32 w-32 absolute "
            src="~/assets/me_2019.png" />
       </div>
     </div>
@@ -33,7 +33,8 @@ export default {
 }
 
 .card__canopy {
-  z-index: 4;
+  z-index: 8;
+  top: 152px;
   
  }
 
