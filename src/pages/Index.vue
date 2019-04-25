@@ -22,10 +22,11 @@
       <a class="mr-3"  href="https://www.kaggle.com/princeashburton">
         <g-image src="~/assets/kaggle-icon.svg" />
       </a>
-
-
-      
     </div>
+   </div>
+
+   <div class="container mt-16 text-center">
+     <h2 class="font-display">I enjoy being on the bleeding edge, while being able to craft experinces.</h2>
    </div>
   </Layout>
 </template>
