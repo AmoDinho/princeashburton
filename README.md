@@ -1,12 +1,12 @@
-# Default starter for Gridsome
+# Home of Prince Ashburton 👨‍🚀
 
-### 1. Install Gridsome CLI tool if you don't have
+This is the repo for my corner of the internet! The plan is put links to the stuff I'm working on here, as well as a blog.
 
-`npm install --global @gridsome/cli`
+## Specs
 
-### 2. Create a Gridsome project
+This front-end basically uses Gridsome as a Static site generator, which is powered by VueJS. Then I've used TailwindCSS to help me with styling. 
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+## License 
+
+This repo has an MIT license, but please do not steal my projects and claim them as yours! 
+
