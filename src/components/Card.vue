@@ -4,7 +4,7 @@
       <h3 class="font-display text-lg text-center text-grey">Product Designer/Full-Stack Engineer </h3>
       <h3 class="font-display text-lg text-center ">
          CTO @ 
-         <a href="www.pimpmybook.co.za"
+         <a 
           class="no-underline hover:underline text-pink">
           Pimp My Book
           </a>
