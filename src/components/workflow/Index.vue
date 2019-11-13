@@ -1,8 +1,8 @@
 <template>
-    
+  <div>I am the index of the workflow</div>
 </template>
 <script>
 export default {
-    name: 'Index'
-}
+  name: "Index"
+};
 </script>
