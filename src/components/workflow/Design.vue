@@ -14,16 +14,20 @@
 
       <BodyText class="mt-5">Tools and techniques I use:</BodyText>
       <ul>
-        <li>
+        <li class="flex">
+          <g-image src="~/assets/floppy-disk_1f4be.svg" class="mr-3" />
           <BodyText>Figma</BodyText>
         </li>
-        <li>
+        <li class="flex">
+          <g-image src="~/assets/floppy-disk_1f4be.svg" class="mr-3" />
           <BodyText>Airtable</BodyText>
         </li>
-        <li>
+        <li class="flex">
+          <g-image src="~/assets/floppy-disk_1f4be.svg" class="mr-3" />
           <BodyText>Draw.io</BodyText>
         </li>
-        <li>
+        <li class="flex">
+          <g-image src="~/assets/floppy-disk_1f4be.svg" class="mr-3" />
           <BodyText>Structual analysis which normally yields: Activity, state or Sequence diagrams</BodyText>
         </li>
       </ul>
