@@ -5,7 +5,7 @@
 
     <BodyText class="mt-3">Technogies: {{tech}}</BodyText>
 
-    <div class="mt-10">
+    <div class="mt-10 flex">
       <a :href="url1">
         <g-image src="~/assets/public.svg" class="mr-5" />
       </a>
