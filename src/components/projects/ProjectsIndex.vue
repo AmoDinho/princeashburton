@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="mb-10">
     <SubHeading>Here are some projects I've made:</SubHeading>
     <ProjectCard
       projectName="Test"
