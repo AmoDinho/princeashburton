@@ -12,8 +12,8 @@
   </div>
 </template>
 <script>
-import SubHeading from "../SubHeading";
-import BodyText from "../BodyText";
+import SubHeading from "./SubHeading";
+import BodyText from "./BodyText";
 export default {
   name: "ProjectCard",
   components: {
@@ -26,7 +26,7 @@ export default {
     gitRepo: String,
     url2: String,
     description: String,
-    tech: Object
+    tech: Array
   }
 };
 </script>

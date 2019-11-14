@@ -33,6 +33,9 @@
     <div>
       <Index />
     </div>
+    <div>
+      <ProjectsIndex />
+    </div>
   </Layout>
 </template>
 
@@ -40,11 +43,13 @@
 import Card from "~/components/Card";
 import Heading from "~/components/Heading";
 import Index from "~/components/workflow/Index.vue";
+import ProjectsIndex from "~/components/projects/ProjectsIndex.vue";
 export default {
   components: {
     Card,
     Heading,
-    Index
+    Index,
+    ProjectsIndex
   },
   metaInfo: {
     title: "Prince Ashburton"
