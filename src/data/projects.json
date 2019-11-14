@@ -1,0 +1,80 @@
+[
+    {
+        "projectName": "Zansi",
+        "url1": "https://zansi.co.za",
+        "gitRepo": "",
+        "url2": "",
+        "description": "A Fullstack Serverless GraphQL Ordering app for textbooks.",
+        "tech": [
+            "ReactJS",
+            "GraphQL",
+            "Apollo Server & Client"
+        ]
+    },
+    {
+        "id": "1",
+        "projectName": "Narshik",
+        "url1": "https://narshik.netlify.com",
+        "gitRepo": "https://github.com/pimp-my-book/narshik",
+        "url2": "",
+        "description": "A component library made in VueJS from GOA's design system.",
+        "tech": [
+            "VueJS",
+            "TailwindCSS",
+            "Storybook"
+        ]
+    },
+    {
+        "id": "2",
+        "projectName": "GOA Landing Page",
+        "url1": "https://gogoa.co.za",
+        "gitRepo": "https://github.com/pimp-my-book/goa-landing-page",
+        "url2": "",
+        "description": "Landing page for Pimp My Book's corporate bursary management app GOA. ",
+        "tech": [
+            "VueJS",
+            "Netlify",
+            "TailwindCSS"
+        ]
+    },
+    {
+        "projectName": "Serverless GraphQL NodeJS",
+        "url1": "",
+        "gitRepo": "https://github.com/pimp-my-book/serverless-graphql-nodejs-starter",
+        "url2": "",
+        "description": "A starter kit to bootstrap Serverless GraphQL APIs on AWS Lambda.",
+        "tech": [
+            "Apollo Server",
+            "GraphQL",
+            "Serverless Framework",
+            "AWS Lambda",
+            "NodeJS",
+            "GraphQL"
+        ]
+    },
+    {
+        "projectName": "Umqombothi",
+        "url1": "https://umqombothi.netlify.com",
+        "gitRepo": "https://github.com/pimp-my-book/umqombothi-component-library",
+        "url2": "",
+        "description": "A component library for an upcoming marketplace service called PMB +.",
+        "tech": [
+            "ReactJS",
+            "Storybook",
+            "TailwindCSS"
+        ]
+    },
+    {
+        "projectName": "Newsroom",
+        "url1": "https://newsroom.pimpmybook.co.za",
+        "gitRepo": "https://github.com/pimp-my-book/newsroom",
+        "url2": "",
+        "description": "Pimp My Book's blog",
+        "tech": [
+            "Gridsome",
+            "Netlify",
+            "TailwindCSS",
+            "VueJS"
+        ]
+    }
+]
