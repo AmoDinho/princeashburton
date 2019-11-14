@@ -6,7 +6,7 @@
 
     <div>
       <SubHeading class="mt-5">Product Design</SubHeading>
-      <BodyText>My design work usually starts with asking the question of who,what and how. This leads to gathering user research, which I then synthesis into user stories/use cases and start working on UI/UX, which usually yields mockups/prototypes.</BodyText>
+      <BodyText>My design work usually starts with asking the question of who,what and how. This leads to gathering user research, which I then synthesis into user stories/use cases and start working on UI/UX, which usually yields mockups/prototypes. I am also a big believer in design systems for projects that call for them.</BodyText>
 
       <BodyText
         class="mt-3"
@@ -27,7 +27,7 @@
           <BodyText>Draw.io</BodyText>
         </li>
         <li class="flex">
-          <g-image src="~/assets/floppy-disk_1f4be.svg" class="mr-3" />
+          <g-image src="~/assets/floppy-disk_1f4be.svg" class="mr-3 ss:mb-10" />
           <BodyText>Structual analysis which normally yields: Activity, state or Sequence diagrams</BodyText>
         </li>
       </ul>

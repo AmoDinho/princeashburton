@@ -161,6 +161,8 @@ module.exports = {
   */
 
   screens: {
+    'ss': '320px',
+    's': '375px',
     'sm': '576px',
     'md': '768px',
     'lg': '992px',
@@ -203,8 +205,8 @@ module.exports = {
       'Droid Sans',
       'Helvetica Neue',
       'sans-serif',
-      
-      
+
+
     ],
     'serif': [
       'Constantia',
