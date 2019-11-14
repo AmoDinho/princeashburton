@@ -1,28 +1,63 @@
-{
-    "projects": [
-        {
-            "projectName": "Narshik",
-            "url1": "https://narshik.netlify.com",
-            "gitRepo": "https://github.com/pimp-my-book/narshik",
-            "url2": "",
-            "description": "A component library made in VueJS from GOA's design system.",
-            "tech": [
-                "VueJS",
-                "TailwindCSS",
-                "Storybook"
-            ]
-        },
-        {
-            "projectName": "GOA Landing Page",
-            "url1": "https://gogoa.co.za",
-            "gitRepo": "https://github.com/pimp-my-book/goa-landing-page",
-            "url2": "",
-            "description": "Pimp My Book started supplying educational material for corporate clients' univeristy bursary programmes. GOA is a service that allows students to order their books. This is GOA's landing page. ",
-            "tech": [
-                "VueJS",
-                "Netlify",
-                "TailwindCSS"
-            ]
-        }
-    ]
-}
+[
+    {
+        "id": "1",
+        "projectName": "Narshik",
+        "url1": "https://narshik.netlify.com",
+        "gitRepo": "https://github.com/pimp-my-book/narshik",
+        "url2": "",
+        "description": "A component library made in VueJS from GOA's design system.",
+        "tech": [
+            "VueJS",
+            "TailwindCSS",
+            "Storybook"
+        ]
+    },
+    {
+        "id": "2",
+        "projectName": "GOA Landing Page",
+        "url1": "https://gogoa.co.za",
+        "gitRepo": "https://github.com/pimp-my-book/goa-landing-page",
+        "url2": "",
+        "description": "Landing page for Pimp My Book's corporate bursary management app GOA. ",
+        "tech": [
+            "VueJS",
+            "Netlify",
+            "TailwindCSS"
+        ]
+    },
+    {
+        "projectName": "Serverless GraphQL NodeJS",
+        "url1": "",
+        "gitRepo": "https://github.com/pimp-my-book/serverless-graphql-nodejs-starter",
+        "url2": "",
+        "description": "A starter kit to bootstrap Serverless GraphQL APIs on AWS Lambda.",
+        "tech": [
+            "Apollo Server",
+            "GraphQL",
+            "Serverless Framework",
+            "AWS Lambda",
+            "NodeJS",
+            "GraphQL"
+        ]
+    },
+    {
+        "projectName": "",
+        "url1": "",
+        "gitRepo": "",
+        "url2": "",
+        "description": "",
+        "tech": [
+            ""
+        ]
+    },
+    {
+        "projectName": "",
+        "url1": "",
+        "gitRepo": "",
+        "url2": "",
+        "description": "",
+        "tech": [
+            ""
+        ]
+    }
+]
