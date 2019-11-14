@@ -1,16 +1,18 @@
 <template>
   <div>
     <div>
-      <SubHeading>A bit about how go about making things</SubHeading>
+      <SubHeading class="mt-5">A bit about how go about making things</SubHeading>
     </div>
 
     <div>
-      <SubHeading>Product Design</SubHeading>
+      <SubHeading class="mt-5">Product Design</SubHeading>
       <BodyText>My design work usually starts with asking the question of who,what and how. This leads to gathering user research, which I then synthesis into user stories/use cases and start working on UI/UX, which usually yields mockups/prototypes.</BodyText>
 
-      <BodyText>Usually all this cannot be done without some logical project management and agile approaches.</BodyText>
+      <BodyText
+        class="mt-3"
+      >Usually all this cannot be done without some logical project management and agile approaches.</BodyText>
 
-      <BodyText>Tools and techniques I use:</BodyText>
+      <BodyText class="mt-5">Tools and techniques I use:</BodyText>
       <ul>
         <li>Figma</li>
         <li>Airtable</li>
