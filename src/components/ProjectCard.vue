@@ -16,6 +16,17 @@
   </div>
 </template>
 <script>
+/*
+
+ {
+           "projectName": "",
+           "url1": "",
+           "gitRepo": "",
+           "url2": "",
+           "description": "",
+           "tech": [""]
+       }
+*/
 import SubHeading from "./SubHeading";
 import BodyText from "./BodyText";
 export default {

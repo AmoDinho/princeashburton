@@ -1,0 +1,26 @@
+{
+    "projects": [
+        {
+            "projectName": "Narshik",
+            "url1": "https://narshik.netlify.com",
+            "gitRepo": "https://github.com/pimp-my-book/narshik",
+            "url2": "",
+            "description": "A component library made in VueJS from GOA's design system.",
+            "tech": [
+                "VueJS",
+                "TailwindCSS",
+                "Storybook"
+            ]
+        },
+        {
+            "projectName": "",
+            "url1": "",
+            "gitRepo": "",
+            "url2": "",
+            "description": "",
+            "tech": [
+                ""
+            ]
+        }
+    ]
+}
