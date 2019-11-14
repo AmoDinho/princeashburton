@@ -1,5 +1,17 @@
 [
     {
+        "projectName": "Zansi",
+        "url1": "https://zansi.co.za",
+        "gitRepo": "",
+        "url2": "",
+        "description": "A Fullstack Serverless GraphQL Ordering app for textbooks.",
+        "tech": [
+            "ReactJS",
+            "GraphQL",
+            "Apollo Server & Client"
+        ]
+    },
+    {
         "id": "1",
         "projectName": "Narshik",
         "url1": "https://narshik.netlify.com",
