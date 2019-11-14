@@ -3,7 +3,10 @@
     <SubHeading>{{projectName}}</SubHeading>
     <BodyText>{{description}}</BodyText>
 
-    <BodyText class="mt-3">Technogies: {{tech}}</BodyText>
+    <BodyText class="mt-3 flex flex-wrap">
+      <b>Technogies:</b>
+      <div class="mr-1" v-for="names in tech">{{names}}</div>
+    </BodyText>
 
     <div class="mt-10 flex">
       <a :href="url1">
