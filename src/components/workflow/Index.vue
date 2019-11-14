@@ -1,8 +1,12 @@
 <template>
-  <div>I am the index of the workflow</div>
+  <Design />
 </template>
 <script>
+import Design from "./Design";
 export default {
-  name: "Index"
+  name: "Index",
+  components: {
+    Design
+  }
 };
 </script>

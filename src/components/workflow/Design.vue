@@ -1,6 +1,16 @@
-<template></template>
+<template>
+  <div>
+    <div>
+      <SubHeading>A bit about how go about making things</SubHeading>
+    </div>
+  </div>
+</template>
 <script>
+import SubHeading from "../SubHeading";
 export default {
-  name: "Design"
+  name: "Design",
+  components: {
+    SubHeading
+  }
 };
 </script>
