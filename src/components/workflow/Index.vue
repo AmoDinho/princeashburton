@@ -1,12 +1,17 @@
 <template>
-  <Design />
+  <div>
+    <Design />
+    <Engineering />
+  </div>
 </template>
 <script>
 import Design from "./Design";
+import Engineering from "./Engineering";
 export default {
   name: "Index",
   components: {
-    Design
+    Design,
+    Engineering
   }
 };
 </script>
