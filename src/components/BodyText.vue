@@ -1,15 +1,12 @@
 <template>
-         <p class="font-body">
-         {{text}}
-         </p>
+  <p class="font-body">
+    <slot></slot>
+  </p>
 </template>
 
 <script>
 export default {
-    name: 'BodyText',
-    props: {
-        text: String
-    }
-}
+  name: "BodyText"
+};
 </script>
 
