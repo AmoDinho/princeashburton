@@ -1,4 +1,6 @@
-<template></template>
+<template>
+  <SubHeading>Fullstack Engineering</SubHeading>
+</template>
 
 <script>
 import SubHeading from "../SubHeading";
