@@ -14,10 +14,18 @@
 
       <BodyText class="mt-5">Tools and techniques I use:</BodyText>
       <ul>
-        <li>Figma</li>
-        <li>Airtable</li>
-        <li>Draw.io</li>
-        <li>Structual analysis which normally yields: Activity, state or Sequence diagrams</li>
+        <li>
+          <BodyText>Figma</BodyText>
+        </li>
+        <li>
+          <BodyText>Airtable</BodyText>
+        </li>
+        <li>
+          <BodyText>Draw.io</BodyText>
+        </li>
+        <li>
+          <BodyText>Structual analysis which normally yields: Activity, state or Sequence diagrams</BodyText>
+        </li>
       </ul>
     </div>
   </div>
