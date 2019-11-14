@@ -1,6 +1,6 @@
 <template>
   <div>
-    <SubHeading>Fullstack Engineering</SubHeading>
+    <SubHeading class="mt-5">Fullstack Engineering</SubHeading>
     <BodyText>
       I enjoy architecting fullstack
       applications on the cloud. I can
@@ -10,17 +10,35 @@
       Learning is usually done in
       Python.
     </BodyText>
-    <BodyText>My Skillset</BodyText>
+    <BodyText class="mt-5 font-bold">My Skillset:</BodyText>
     <ul>
-      <li>React</li>
-      <li>Vue</li>
-      <li>Netlify</li>
-      <li>AWS</li>
-      <li>SciKitLearn</li>
-      <li>FastAI</li>
-      <li>CI/CD</li>
-      <li>GraphQL</li>
-      <li>SQL/No-SQL</li>
+      <li class="flex">
+        <BodyText>React</BodyText>
+      </li>
+      <li class="flex">
+        <BodyText>Vue</BodyText>
+      </li>
+      <li class="flex">
+        <BodyText>Netlify</BodyText>
+      </li>
+      <li class="flex">
+        <BodyText>AWS</BodyText>
+      </li>
+      <li class="flex">
+        <BodyText>SciKitLearn</BodyText>
+      </li>
+      <li class="flex">
+        <BodyText>FastAI</BodyText>
+      </li>
+      <li class="flex">
+        <BodyText>CI/CD</BodyText>
+      </li>
+      <li class="flex">
+        <BodyText>GraphQL</BodyText>
+      </li>
+      <li class="flex">
+        <BodyText>SQL/No-SQL</BodyText>
+      </li>
     </ul>
   </div>
 </template>

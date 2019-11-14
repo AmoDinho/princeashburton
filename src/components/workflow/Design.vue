@@ -12,7 +12,7 @@
         class="mt-3"
       >Usually all this cannot be done without some logical project management and agile approaches.</BodyText>
 
-      <BodyText class="mt-5">Tools and techniques I use:</BodyText>
+      <BodyText class="mt-5 font-bold">Tools and techniques I use:</BodyText>
       <ul>
         <li class="flex">
           <g-image src="~/assets/floppy-disk_1f4be.svg" class="mr-3" />
