@@ -1,5 +1,5 @@
 <template>
-  <div class="w-2/5 h-48 bg-yellow-lightest rounded-lg shadow-1 flex flex-col p-2">
+  <div class="w-2/5 h-64 bg-yellow-lightest rounded-lg shadow-1 flex flex-col p-2">
     <SubHeading>{{projectName}}</SubHeading>
     <BodyText>{{description}}</BodyText>
 
@@ -10,23 +10,15 @@
         <g-image src="~/assets/public.svg" class="mr-5" />
       </a>
       <a :href="gitRepo">
-        <g-image width="24" height="24" src="~/assets/github-1.svg" />
+        <div v-if="gitRepo">
+          <g-image width="24" height="24" src="~/assets/github-1.svg" />
+        </div>
+        <div v-else></div>
       </a>
     </div>
   </div>
 </template>
 <script>
-/*
-
- {
-           "projectName": "",
-           "url1": "",
-           "gitRepo": "",
-           "url2": "",
-           "description": "",
-           "tech": [""]
-       }
-*/
 import SubHeading from "./SubHeading";
 import BodyText from "./BodyText";
 export default {

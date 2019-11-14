@@ -67,8 +67,8 @@
     {
         "projectName": "Newsroom",
         "url1": "https://newsroom.pimpmybook.co.za",
-        "gitRepo": "",
-        "url2": "https://github.com/pimp-my-book/newsroom",
+        "gitRepo": "https://github.com/pimp-my-book/newsroom",
+        "url2": "",
         "description": "Pimp My Book's blog",
         "tech": [
             "Gridsome",

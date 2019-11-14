@@ -3,10 +3,12 @@
     <SubHeading>Here are some projects I've made:</SubHeading>
     <div v-for="project in projects">
       <ProjectCard
+        class="mt-5"
         :projectName="project.projectName"
         :url1="project.url1"
         :gitRepo="project.gitRepo"
         :description="project.description"
+        :tech="project.tech"
       />
     </div>
   </div>
