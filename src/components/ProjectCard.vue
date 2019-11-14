@@ -5,11 +5,13 @@
 
     <BodyText class="mt-3">Technogies: {{tech}}</BodyText>
 
-    <div>
-      <BodyText>Live url:{{url1}}</BodyText>
-      <g-image src="~/assets/public.svg" />
-      <g-image width="24" height="24" src="~/assets/github-1.svg" />
-      <BodyText>Git repo:{{gitRepo}}</BodyText>
+    <div class="mt-10">
+      <a :href="url1">
+        <g-image src="~/assets/public.svg" class="mr-5" />
+      </a>
+      <a :href="gitRepo">
+        <g-image width="24" height="24" src="~/assets/github-1.svg" />
+      </a>
     </div>
   </div>
 </template>
