@@ -1,5 +1,5 @@
 <template>
-  <div class="w-2/5 h-64 bg-yellow-lightest rounded-lg shadow-1 flex flex-col p-2">
+  <div class="w-4/5 h-64 bg-yellow-lightest rounded-lg shadow-1 flex flex-col p-2">
     <SubHeading>{{projectName}}</SubHeading>
     <BodyText>{{description}}</BodyText>
 

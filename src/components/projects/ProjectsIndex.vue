@@ -1,15 +1,17 @@
 <template>
   <div class="mb-10">
     <SubHeading>Here are some projects I've made:</SubHeading>
-    <div v-for="project in projects">
-      <ProjectCard
-        class="mt-5"
-        :projectName="project.projectName"
-        :url1="project.url1"
-        :gitRepo="project.gitRepo"
-        :description="project.description"
-        :tech="project.tech"
-      />
+    <div class="grid">
+      <div v-for="project in projects">
+        <ProjectCard
+          class="mt-5"
+          :projectName="project.projectName"
+          :url1="project.url1"
+          :gitRepo="project.gitRepo"
+          :description="project.description"
+          :tech="project.tech"
+        />
+      </div>
     </div>
   </div>
 </template>
@@ -33,3 +35,10 @@ export default {
   }
 };
 </script>
+<style>
+.grid {
+  display: grid;
+  grid-gap: 0px;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+}
+</style>
