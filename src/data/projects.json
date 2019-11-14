@@ -13,13 +13,15 @@
             ]
         },
         {
-            "projectName": "",
-            "url1": "",
-            "gitRepo": "",
+            "projectName": "GOA Landing Page",
+            "url1": "https://gogoa.co.za",
+            "gitRepo": "https://github.com/pimp-my-book/goa-landing-page",
             "url2": "",
-            "description": "",
+            "description": "Pimp My Book started supplying educational material for corporate clients' univeristy bursary programmes. GOA is a service that allows students to order their books. This is GOA's landing page. ",
             "tech": [
-                ""
+                "VueJS",
+                "Netlify",
+                "TailwindCSS"
             ]
         }
     ]
