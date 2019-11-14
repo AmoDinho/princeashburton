@@ -1,13 +1,12 @@
 <template>
-  <h4 class="font-display">{{text}}</h4>
+  <h4 class="font-display">
+    <slot></slot>
+  </h4>
 </template>
 
 <script>
 export default {
-  name: "SubHeading",
-  props: {
-    text: String
-  }
+  name: "SubHeading"
 };
 </script>
 
