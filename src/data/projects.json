@@ -41,23 +41,28 @@
         ]
     },
     {
-        "projectName": "",
-        "url1": "",
-        "gitRepo": "",
+        "projectName": "Umqombothi",
+        "url1": "https://umqombothi.netlify.com",
+        "gitRepo": "https://github.com/pimp-my-book/umqombothi-component-library",
         "url2": "",
-        "description": "",
+        "description": "A component library for an upcoming marketplace service called PMB +.",
         "tech": [
-            ""
+            "ReactJS",
+            "Storybook",
+            "TailwindCSS"
         ]
     },
     {
-        "projectName": "",
-        "url1": "",
+        "projectName": "Newsroom",
+        "url1": "https://newsroom.pimpmybook.co.za",
         "gitRepo": "",
-        "url2": "",
-        "description": "",
+        "url2": "https://github.com/pimp-my-book/newsroom",
+        "description": "Pimp My Book's blog",
         "tech": [
-            ""
+            "Gridsome",
+            "Netlify",
+            "TailwindCSS",
+            "VueJS"
         ]
     }
 ]
