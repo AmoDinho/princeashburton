@@ -1,5 +1,5 @@
 <template>
-  <div class="w-2/5 h-48 bg-yellow-lightest">
+  <div class="w-2/5 h-48 bg-yellow-lightest rounded-lg shadow-1">
     <SubHeading>{{projectName}}</SubHeading>
     <BodyText>{{description}}</BodyText>
 
