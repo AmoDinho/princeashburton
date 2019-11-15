@@ -1,7 +1,7 @@
 <template>
   <div>
     <div>
-      <SubHeading class="mt-5">A bit about how go about making things</SubHeading>
+      <SubHeading class="mt-5">A bit about how I go about making things</SubHeading>
     </div>
 
     <div>
@@ -28,7 +28,7 @@
         </li>
         <li class="flex">
           <g-image src="~/assets/floppy-disk_1f4be.svg" class="mr-3 ss:mb-10" />
-          <BodyText>Structual analysis which normally yields: Activity, state or Sequence diagrams</BodyText>
+          <BodyText>Structual analysis which normally yields: Activity, State or Sequence diagrams</BodyText>
         </li>
       </ul>
     </div>

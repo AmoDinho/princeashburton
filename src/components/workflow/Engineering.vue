@@ -5,8 +5,7 @@
       I enjoy architecting fullstack
       applications on the cloud. I can
       make either consumer apps
-      (web) or developer tools which I
-      use JavaScript. My Machine
+      (web) or developer tools in JavaScript. My Machine
       Learning is usually done in
       Python.
     </BodyText>
