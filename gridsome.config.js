@@ -15,7 +15,9 @@
 
 */
 module.exports = {
-  siteName: 'Gridsome',
+  siteName: 'Prince Ashburton',
+  siteDescription: 'Amo Moloko`s personal portofolio.',
+  siteUrl: 'https://princeashburton.netlify.com/',
   plugins: [
     {
       use: 'gridsome-plugin-tailwindcss'
