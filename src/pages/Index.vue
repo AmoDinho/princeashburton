@@ -27,7 +27,7 @@
     <div class="container mt-16 text-center">
       <Heading
         text="I enjoy being on the bleeding edge, 
-   while being able to craft experinces."
+   while being able to craft experiences."
       />
     </div>
     <div>
