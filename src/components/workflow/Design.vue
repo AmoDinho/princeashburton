@@ -6,11 +6,11 @@
 
     <div>
       <SubHeading class="mt-5">Product Design</SubHeading>
-      <BodyText>My design work  starts with asking the question of who,what and how. This leads to gathering user research, which I then synthesis into user stories/use cases and start working on UI/UX, which yields mockups/prototypes. I am also a big believer in design systems for projects that call for them.</BodyText>
+      <BodyText>My design work starts with asking the question of who,what and how. This leads to gathering user research, which I then synthesis into user stories/use cases and start working on UI/UX, which yields mockups/prototypes. I am also a big believer in design systems for projects that call for them.</BodyText>
 
       <BodyText
         class="mt-3"
-      >Usually all this cannot be done without some logical project management and agile approaches.</BodyText>
+      > All this cannot be done without some logical project management and agile approaches.</BodyText>
 
       <BodyText class="mt-5 font-bold">Tools and techniques I use:</BodyText>
       <ul>
