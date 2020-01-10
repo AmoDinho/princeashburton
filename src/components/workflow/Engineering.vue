@@ -6,7 +6,7 @@
       applications on the cloud. I can
       make either consumer apps
       (web) or developer tools in JavaScript. My Machine
-      Learning is usually done in
+      Learning is done in
       Python.
     </BodyText>
     <BodyText class="mt-5 font-bold">My Skillset:</BodyText>
