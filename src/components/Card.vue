@@ -3,7 +3,7 @@
     <h1 class="font-display text-center">Amo Moloko</h1>
     <h3 class="font-display text-lg text-center text-grey">Product Designer/Full-Stack Engineer</h3>
     <h3 class="mt-2 mb-2 text-blue text-center">Tech Lead @ <a class="no-underline text-blue" href="https://tripplo.co">Tripplo</a></h3>
-     <h4 class="mt-2 mb-2 text-green text-center">Co-organizer @ <a class="no-underline text-blue" href="https://fedsa.org">FEDSA</a></h4>
+     <h4 class="mt-2 mb-2 text-green text-center">Co-organizer @ <a class="no-underline text-green" href="https://fedsa.org">FEDSA</a></h4>
     <div class="flex justify-center card__canopy">
       <g-image class="rounded-full h-32 w-32 absolute" src="~/assets/me_2020.png" />
     </div>
