@@ -7,7 +7,7 @@
       Driven applications primarily on AWS.
     </BodyText>
 
-    <BodyText>
+    <BodyText class="mt-3">
       I’m a big believer in creating customer driven experiences, that have led
       me to work in Retail and Logistics. These industries come with their fair
       share of unique customer challenges which have resulted in learning when
@@ -15,7 +15,7 @@
       hand.
     </BodyText>
 
-    <BodyText>
+    <BodyText class="mt-3">
       When I’m not making technology, you can find me out on the ocean sailing,
       hiking on a mountain or out and about trying to soak up nature with
       friends & family.
