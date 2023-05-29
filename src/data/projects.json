@@ -27,7 +27,7 @@
   },
   {
     "projectName": "FSGQL",
-    "url1": "fsgql.com",
+    "url1": "https://fsgql.com",
     "gitRepo": "https://github.com/Fullstack-Serverless-GraphQL/fullstack-serverless-graphql-docs",
     "url2": "",
     "description": "A course that teaches you how to use Serverless on AWS, React, Vue & GraphQL by making an app that allows users to book vactions to the Moon! ",
@@ -41,19 +41,18 @@
     ]
   },
   {
-    "projectName": "Umqombothi",
-    "url1": "https://umqombothi.netlify.com",
-    "gitRepo": "https://github.com/pimp-my-book/umqombothi-component-library",
+    "projectName": "SASI",
+    "url1": "",
+    "gitRepo": "https://github.com/sasi-world",
     "url2": "",
-    "description": "A component library for an upcoming marketplace service called PMB +.",
-    "tech": ["ReactJS", "Storybook", "TailwindCSS"]
-  },
-  {
-    "projectName": "Newsroom",
-    "url1": "https://pmbnewsroom.netlify.com/",
-    "gitRepo": "https://github.com/pimp-my-book/newsroom",
-    "url2": "",
-    "description": "Pimp My Book's blog",
-    "tech": ["Gridsome", "Netlify", "TailwindCSS", "VueJS"]
+    "description": "Sasi provides a source of high quality multiracial stock content.",
+    "tech": [
+      "Apollo Server",
+      "GraphQL",
+      "Serverless Framework",
+      "AWS Lambda",
+      "NodeJS",
+      "GraphQL"
+    ]
   }
 ]
