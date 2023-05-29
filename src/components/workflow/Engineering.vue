@@ -28,31 +28,18 @@
       </li>
       <li class="flex">
         <g-image src="~/assets/minidisc_1f4bd.svg" class="mr-3" />
-        <BodyText>Vue</BodyText>
+        <BodyText
+          >AWS (Lambda,Open Search,DynamoDB,Event
+          Bridge,SQS,SNS,Route53,CloudFront,Cognito,IAM,s3)
+        </BodyText>
       </li>
       <li class="flex">
         <g-image src="~/assets/minidisc_1f4bd.svg" class="mr-3" />
-        <BodyText>Netlify</BodyText>
+        <BodyText>Github Actions/Gitlab Pipelines [CI/CD]</BodyText>
       </li>
       <li class="flex">
         <g-image src="~/assets/minidisc_1f4bd.svg" class="mr-3" />
-        <BodyText>AWS</BodyText>
-      </li>
-      <li class="flex">
-        <g-image src="~/assets/minidisc_1f4bd.svg" class="mr-3" />
-        <BodyText>SciKitLearn</BodyText>
-      </li>
-      <li class="flex">
-        <g-image src="~/assets/minidisc_1f4bd.svg" class="mr-3" />
-        <BodyText>FastAI</BodyText>
-      </li>
-      <li class="flex">
-        <g-image src="~/assets/minidisc_1f4bd.svg" class="mr-3" />
-        <BodyText>CI/CD</BodyText>
-      </li>
-      <li class="flex">
-        <g-image src="~/assets/minidisc_1f4bd.svg" class="mr-3" />
-        <BodyText>GraphQL</BodyText>
+        <BodyText>GraphQL/REST</BodyText>
       </li>
       <li class="flex">
         <g-image src="~/assets/minidisc_1f4bd.svg" class="mr-3" />
