@@ -9,21 +9,21 @@
   },
   {
     "id": "1",
-    "projectName": "Narshik",
-    "url1": "https://narshik.netlify.com",
-    "gitRepo": "https://github.com/pimp-my-book/narshik",
+    "projectName": "AWS PTA Meetup",
+    "url1": "https://www.youtube.com/watch?v=hL0uVlH0WeE&ab_channel=AWS-PTAMeetup",
+    "gitRepo": "",
     "url2": "",
-    "description": "A component library made in VueJS from GOA's design system.",
-    "tech": ["VueJS", "TailwindCSS", "Storybook"]
+    "description": "A talk a gave at the AWS PTA Meetup explaining Tripplo's architecture.",
+    "tech": ["AWS", "Serverless", "React"]
   },
   {
     "id": "2",
-    "projectName": "GOA Landing Page",
-    "url1": "https://gogoa.co.za",
-    "gitRepo": "https://github.com/pimp-my-book/goa-landing-page",
+    "projectName": "SST GQL Starter Kit",
+    "url1": "",
+    "gitRepo": "https://github.com/AmoDinho/sst.gql.starterkit",
     "url2": "",
-    "description": "Landing page for Pimp My Book's corporate bursary management app GOA. ",
-    "tech": ["VueJS", "Netlify", "TailwindCSS"]
+    "description": "A starter kit for scaffolding AWS Microservices with SST.",
+    "tech": ["AWS Lambda", "GraphQL", "TypeScript"]
   },
   {
     "projectName": "Serverless GraphQL NodeJS",
