@@ -26,11 +26,11 @@
     "tech": ["AWS Lambda", "GraphQL", "TypeScript"]
   },
   {
-    "projectName": "Serverless GraphQL NodeJS",
-    "url1": "",
-    "gitRepo": "https://github.com/pimp-my-book/serverless-graphql-nodejs-starter",
+    "projectName": "FSGQL",
+    "url1": "fsgql.com",
+    "gitRepo": "https://github.com/Fullstack-Serverless-GraphQL/fullstack-serverless-graphql-docs",
     "url2": "",
-    "description": "A starter kit to bootstrap Serverless GraphQL APIs on AWS Lambda.",
+    "description": "A course that teaches you how to use Serverless on AWS, React, Vue & GraphQL by making an app that allows users to book vactions to the Moon! ",
     "tech": [
       "Apollo Server",
       "GraphQL",
