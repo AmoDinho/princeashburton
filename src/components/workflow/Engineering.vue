@@ -1,6 +1,5 @@
 <template>
   <div>
-    <SubHeading class="mt-5">Fullstack Engineering</SubHeading>
     <BodyText>
       I am an analytical JavaScript engineer based in Cape Town, South Africa
       who has a strong bias towards action. I primarily develop Fullstack Event
@@ -50,12 +49,10 @@
 </template>
 
 <script>
-import SubHeading from '../SubHeading';
 import BodyText from '../BodyText';
 export default {
   name: 'Engineering',
   components: {
-    SubHeading,
     BodyText,
   },
 };
