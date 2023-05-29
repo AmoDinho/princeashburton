@@ -5,7 +5,7 @@
     "gitRepo": "https://github.com/AmoDinho/nodejs-africa23-talk",
     "url2": "",
     "description": "A talk I gave at NodeJS One Africa 2023 on how to use Pupperteer in Serverless environments.",
-    "tech": ["Serverless", "GraphQL", "Apollo Server & Client", "Pupperteer"]
+    "tech": ["Serverless,", "GraphQL,", "Apollo Server & Client,", "Pupperteer"]
   },
   {
     "id": "1",
@@ -14,7 +14,7 @@
     "gitRepo": "",
     "url2": "",
     "description": "A talk a gave at the AWS PTA Meetup explaining Tripplo's architecture.",
-    "tech": ["AWS", "Serverless", "React"]
+    "tech": ["AWS,", "Serverless,", "React"]
   },
   {
     "id": "2",
@@ -23,20 +23,20 @@
     "gitRepo": "https://github.com/AmoDinho/sst.gql.starterkit",
     "url2": "",
     "description": "A starter kit for scaffolding AWS Microservices with SST.",
-    "tech": ["AWS Lambda", "GraphQL", "TypeScript"]
+    "tech": ["AWS Lambda,", "GraphQL,", "TypeScript"]
   },
   {
     "projectName": "FSGQL",
     "url1": "https://fsgql.com",
     "gitRepo": "https://github.com/Fullstack-Serverless-GraphQL/fullstack-serverless-graphql-docs",
     "url2": "",
-    "description": "A course that teaches you how to use Serverless on AWS, React, Vue & GraphQL by making an app that allows users to book vactions to the Moon! ",
+    "description": "A course that teaches you how build an app that books vactions to the Moon! ",
     "tech": [
-      "Apollo Server",
-      "GraphQL",
-      "Serverless Framework",
-      "AWS Lambda",
-      "NodeJS",
+      "Apollo Server,",
+      "GraphQL,",
+      "Serverless Framework,",
+      "AWS Lambda,",
+      "NodeJS,",
       "GraphQL"
     ]
   },
@@ -47,11 +47,11 @@
     "url2": "",
     "description": "Sasi provides a source of high quality multiracial stock content.",
     "tech": [
-      "Apollo Server",
-      "GraphQL",
-      "Serverless Framework",
-      "AWS Lambda",
-      "NodeJS",
+      "Apollo Server,",
+      "GraphQL,",
+      "Serverless Framework,",
+      "AWS Lambda,",
+      "NodeJS,",
       "GraphQL"
     ]
   }
