@@ -8,7 +8,6 @@ import Engineering from './Engineering';
 export default {
   name: 'Index',
   components: {
-    Design,
     Engineering,
   },
 };
