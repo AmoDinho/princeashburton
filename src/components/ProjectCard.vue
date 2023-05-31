@@ -13,6 +13,7 @@
       <div v-if="url1"
         <g-image src="~/assets/public.svg" class="mr-5" />
          </div>
+          <div v-else></div>
       </a>
       <a :href="gitRepo">
         <div v-if="gitRepo">
