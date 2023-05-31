@@ -10,7 +10,9 @@
 
     <div class="mt-10 flex">
       <a :href="url1">
+      <div v-if="url1"
         <g-image src="~/assets/public.svg" class="mr-5" />
+         </div>
       </a>
       <a :href="gitRepo">
         <div v-if="gitRepo">
