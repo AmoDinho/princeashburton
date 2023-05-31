@@ -19,7 +19,6 @@
   {
     "id": "2",
     "projectName": "SST GQL Starter Kit",
-    "url1": "",
     "gitRepo": "https://github.com/AmoDinho/sst.gql.starterkit",
     "url2": "",
     "description": "A starter kit for scaffolding AWS Microservices with SST.",
@@ -42,7 +41,6 @@
   },
   {
     "projectName": "SASI",
-    "url1": "",
     "gitRepo": "https://github.com/sasi-world",
     "url2": "",
     "description": "Sasi provides a source of high quality multiracial stock content.",
