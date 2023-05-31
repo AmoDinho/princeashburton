@@ -30,7 +30,7 @@
     "url1": "https://fsgql.com",
     "gitRepo": "https://github.com/Fullstack-Serverless-GraphQL/fullstack-serverless-graphql-docs",
     "url2": "",
-    "description": "A course that teaches you how build an app that books vactions to the Moon! ",
+    "description": "A course that teaches you how to build an app that books vactions to the Moon! ",
     "tech": [
       "Apollo Server,",
       "GraphQL,",
