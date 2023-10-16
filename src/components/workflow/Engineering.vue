@@ -15,7 +15,7 @@
     </BodyText>
 
     <BodyText class="mt-3">
-      When I’m not making technology, you can find me out on the ocean sailing,
+      When I’m not making technology, you can find me out on the <a href="https://www.youtube.com/channel/UC3OYnleRPUgro7sGlJdtYFA" target="_blank">ocean sailing</a>,
       hiking on a mountain or out and about trying to soak up nature with
       friends & family.
     </BodyText>
