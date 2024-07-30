@@ -5,8 +5,8 @@
       Fullstack Engineer
     </h3>
     <h3 class="mt-2 mb-2 text-blue text-center">
-      Engineering Manager @
-      <a class="no-underline text-blue" href="https://tripplo.co">Tripplo</a>
+      Fullstack Engineer @
+      <a class="no-underline text-green" href="https://naked.insure/">Naked</a>
     </h3>
     <div class="flex justify-center card__canopy">
       <g-image
