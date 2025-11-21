@@ -18,8 +18,8 @@
         <a class="mr-3" href="https://twitter.com/PrinceAshburton">
           <g-image src="~/assets/Vector.svg" />
         </a>
-        <a class="mr-3" href="https://www.kaggle.com/princeashburton">
-          <g-image src="~/assets/kaggle-icon.svg" />
+        <a class="mr-3" href="https://www.youtube.com/@AmoMoloko/videos">
+          <g-image src="~/assets/youtube-icon.svg" />
         </a>
       </div>
     </div>
