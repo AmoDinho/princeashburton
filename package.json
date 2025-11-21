@@ -1,6 +1,9 @@
 {
   "name": "princeashburton",
   "private": false,
+   "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "build": "gridsome build",
     "develop": "gridsome develop",
