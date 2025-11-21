@@ -11,7 +11,7 @@
     <div class="flex justify-center card__canopy">
       <g-image
         class="rounded-full h-32 w-32 absolute"
-        src="~/assets/me_2020.png"
+        src="~/assets/me_croped_2023.jpg"
       />
     </div>
   </div>
